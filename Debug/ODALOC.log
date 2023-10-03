@@ -1,0 +1,8 @@
+﻿  admin.cpp
+D:\SEMESTER 2\ODALOC\admin.h(80,1): warning C4305: '=': truncation from 'int' to 'char'
+D:\SEMESTER 2\ODALOC\admin.h(80,14): warning C4309: '=': truncation of constant value
+D:\SEMESTER 2\ODALOC\admin.cpp(115,26): error C4308: negative integral constant converted to unsigned type
+D:\SEMESTER 2\ODALOC\admin.cpp(143,26): error C4308: negative integral constant converted to unsigned type
+D:\SEMESTER 2\ODALOC\admin.cpp(287,38): error C4308: negative integral constant converted to unsigned type
+D:\SEMESTER 2\ODALOC\admin.cpp(340,38): error C4308: negative integral constant converted to unsigned type
+D:\SEMESTER 2\ODALOC\admin.cpp(311,17): warning C4101: 'bn': unreferenced local variable

@@ -1,0 +1,19 @@
+﻿  admin.cpp
+D:\SEMESTER 2\ODALOC\Patient.h(37,11): warning C4129: 'P': unrecognized character escape sequence
+D:\SEMESTER 2\ODALOC\Patient.h(62,11): warning C4129: 'P': unrecognized character escape sequence
+D:\SEMESTER 2\ODALOC\Patient.h(36,1): warning C4305: '=': truncation from 'int' to 'char'
+D:\SEMESTER 2\ODALOC\Patient.h(36,14): warning C4309: '=': truncation of constant value
+D:\SEMESTER 2\ODALOC\appointment.h(36,11): warning C4129: 'A': unrecognized character escape sequence
+D:\SEMESTER 2\ODALOC\appointment.h(41,11): warning C4129: 'A': unrecognized character escape sequence
+D:\SEMESTER 2\ODALOC\appointment.h(43,11): warning C4129: 'A': unrecognized character escape sequence
+D:\SEMESTER 2\ODALOC\appointment.h(48,11): warning C4129: 'A': unrecognized character escape sequence
+D:\SEMESTER 2\ODALOC\admin.cpp(164,26): warning C4309: 'initializing': truncation of constant value
+D:\SEMESTER 2\ODALOC\admin.cpp(193,26): warning C4309: 'initializing': truncation of constant value
+D:\SEMESTER 2\ODALOC\admin.cpp(222,26): warning C4309: 'initializing': truncation of constant value
+D:\SEMESTER 2\ODALOC\admin.cpp(391,38): warning C4309: 'initializing': truncation of constant value
+D:\SEMESTER 2\ODALOC\admin.cpp(443,38): warning C4309: 'initializing': truncation of constant value
+D:\SEMESTER 2\ODALOC\admin.cpp(414,17): warning C4101: 'bn': unreferenced local variable
+D:\SEMESTER 2\ODALOC\admin.cpp(643,18): error C3861: 'delete_appointment': identifier not found
+D:\SEMESTER 2\ODALOC\admin.cpp(750,13): error C3861: 'delete_appointment': identifier not found
+D:\SEMESTER 2\ODALOC\admin.cpp(788,13): error C3861: 'delete_appointment': identifier not found
+D:\SEMESTER 2\ODALOC\admin.cpp(793,13): error C3861: 'delete_appointment': identifier not found
